@@ -1,0 +1,1001 @@
+timestamp,event_type,device,location,value
+2024-07-09 15:13:22,Environmental,Temperature,Bedroom,74F
+2024-07-11 22:45:22,Environmental,Humidity,Kitchen,55%
+2024-07-07 22:15:22,Device Usage,Appliance,Bathroom,Used
+2024-07-08 19:40:22,Security Event,Motion Sensor,Living Room,Motion Detected
+2024-07-14 17:43:22,Device Usage,Light,Bathroom,Off
+2024-07-14 05:30:22,Device Usage,Thermostat,Front Door,Set to 70F
+2024-07-08 10:31:22,Environmental,Temperature,Living Room,63F
+2024-07-12 13:44:22,Device Usage,Appliance,Front Door,Used
+2024-07-14 03:08:22,Environmental,Temperature,Kitchen,77F
+2024-07-08 15:41:22,Security Event,Camera,Bathroom,Closed
+2024-07-12 18:44:22,Security Event,Door,Front Door,Motion Detected
+2024-07-10 01:01:22,Security Event,Motion Sensor,Front Door,Motion Detected
+2024-07-11 03:33:22,Device Usage,Thermostat,Front Door,Set to 63F
+2024-07-08 09:33:22,Environmental,Humidity,Front Door,70%
+2024-07-11 06:02:22,Device Usage,Light,Front Door,On
+2024-07-07 22:51:22,Security Event,Camera,Kitchen,Motion Detected
+2024-07-11 09:39:22,Security Event,Camera,Front Door,Motion Detected
+2024-07-10 07:16:22,Device Usage,Light,Living Room,On
+2024-07-13 17:39:22,Environmental,Humidity,Bathroom,66%
+2024-07-12 19:21:22,Security Event,Camera,Kitchen,Motion Detected
+2024-07-13 16:48:22,Security Event,Door,Kitchen,Motion Detected
+2024-07-10 08:22:22,Environmental,Humidity,Living Room,44%
+2024-07-09 13:29:22,Environmental,Humidity,Bedroom,41%
+2024-07-13 03:41:22,Security Event,Camera,Bedroom,Closed
+2024-07-08 06:08:22,Environmental,Humidity,Front Door,60%
+2024-07-14 03:35:22,Environmental,Humidity,Bathroom,48%
+2024-07-08 23:10:22,Device Usage,Appliance,Bathroom,Used
+2024-07-10 15:54:22,Environmental,Humidity,Kitchen,53%
+2024-07-08 05:39:22,Device Usage,Light,Front Door,On
+2024-07-10 01:21:22,Security Event,Camera,Bedroom,Closed
+2024-07-09 03:06:22,Environmental,Temperature,Bathroom,66F
+2024-07-09 11:26:22,Device Usage,Light,Bedroom,Off
+2024-07-12 16:47:22,Device Usage,Appliance,Living Room,Used
+2024-07-14 03:51:22,Security Event,Camera,Front Door,Motion Detected
+2024-07-10 23:41:22,Device Usage,Appliance,Bathroom,Used
+2024-07-09 11:07:22,Environmental,Temperature,Front Door,61F
+2024-07-14 10:47:22,Device Usage,Appliance,Living Room,Used
+2024-07-13 17:13:22,Environmental,Humidity,Front Door,64%
+2024-07-08 08:05:22,Device Usage,Thermostat,Bedroom,Set to 79F
+2024-07-08 17:26:22,Device Usage,Light,Front Door,On
+2024-07-08 05:04:22,Security Event,Door,Front Door,Closed
+2024-07-09 04:14:22,Security Event,Door,Bathroom,Opened
+2024-07-13 18:15:22,Device Usage,Thermostat,Living Room,Set to 77F
+2024-07-12 01:10:22,Device Usage,Appliance,Front Door,Used
+2024-07-10 22:01:22,Environmental,Humidity,Kitchen,43%
+2024-07-13 06:46:22,Environmental,Humidity,Kitchen,58%
+2024-07-10 09:18:22,Security Event,Camera,Front Door,Opened
+2024-07-10 08:28:22,Device Usage,Appliance,Front Door,Used
+2024-07-11 09:46:22,Security Event,Camera,Living Room,Motion Detected
+2024-07-11 17:54:22,Security Event,Motion Sensor,Living Room,Closed
+2024-07-10 05:08:22,Security Event,Camera,Bathroom,Closed
+2024-07-13 03:15:22,Device Usage,Thermostat,Front Door,Set to 66F
+2024-07-11 17:20:22,Environmental,Temperature,Bathroom,74F
+2024-07-07 23:26:22,Environmental,Temperature,Living Room,71F
+2024-07-10 16:01:22,Environmental,Humidity,Living Room,41%
+2024-07-10 01:34:22,Device Usage,Thermostat,Bedroom,Set to 80F
+2024-07-14 06:02:22,Security Event,Camera,Front Door,Closed
+2024-07-11 20:18:22,Environmental,Humidity,Living Room,58%
+2024-07-10 03:06:22,Environmental,Temperature,Bedroom,70F
+2024-07-10 16:43:22,Security Event,Camera,Front Door,Closed
+2024-07-10 22:59:22,Device Usage,Thermostat,Bathroom,Set to 63F
+2024-07-12 02:50:22,Security Event,Camera,Bathroom,Motion Detected
+2024-07-14 17:32:22,Security Event,Camera,Bedroom,Closed
+2024-07-11 16:17:22,Security Event,Door,Living Room,Opened
+2024-07-10 05:56:22,Environmental,Temperature,Kitchen,61F
+2024-07-14 14:53:22,Environmental,Temperature,Front Door,68F
+2024-07-13 02:56:22,Device Usage,Appliance,Bedroom,Used
+2024-07-12 07:41:22,Environmental,Humidity,Front Door,62%
+2024-07-11 22:14:22,Device Usage,Thermostat,Living Room,Set to 77F
+2024-07-11 19:59:22,Device Usage,Appliance,Living Room,Used
+2024-07-11 23:36:22,Device Usage,Thermostat,Kitchen,Set to 67F
+2024-07-14 16:23:22,Environmental,Humidity,Front Door,68%
+2024-07-07 20:25:22,Environmental,Temperature,Living Room,65F
+2024-07-13 06:04:22,Device Usage,Appliance,Bedroom,Used
+2024-07-08 18:29:22,Security Event,Camera,Bedroom,Opened
+2024-07-14 01:00:22,Environmental,Temperature,Front Door,67F
+2024-07-12 00:49:22,Environmental,Humidity,Front Door,67%
+2024-07-11 02:27:22,Security Event,Camera,Bedroom,Opened
+2024-07-14 16:06:22,Device Usage,Appliance,Front Door,Used
+2024-07-13 21:31:22,Environmental,Humidity,Front Door,32%
+2024-07-08 13:13:22,Device Usage,Thermostat,Kitchen,Set to 78F
+2024-07-08 22:45:22,Environmental,Humidity,Kitchen,34%
+2024-07-12 07:41:22,Device Usage,Light,Bedroom,On
+2024-07-13 15:18:22,Device Usage,Light,Bedroom,Off
+2024-07-13 05:43:22,Security Event,Motion Sensor,Front Door,Opened
+2024-07-09 17:33:22,Security Event,Camera,Kitchen,Closed
+2024-07-11 08:05:22,Security Event,Camera,Bedroom,Motion Detected
+2024-07-08 09:14:22,Security Event,Door,Living Room,Closed
+2024-07-13 00:18:22,Security Event,Camera,Kitchen,Opened
+2024-07-11 02:53:22,Environmental,Temperature,Bathroom,79F
+2024-07-10 20:23:22,Device Usage,Thermostat,Kitchen,Set to 77F
+2024-07-13 09:50:22,Environmental,Temperature,Bedroom,65F
+2024-07-13 12:46:22,Security Event,Camera,Bathroom,Opened
+2024-07-14 15:41:22,Environmental,Humidity,Kitchen,61%
+2024-07-08 14:03:22,Device Usage,Light,Front Door,On
+2024-07-10 18:23:22,Environmental,Humidity,Bathroom,70%
+2024-07-10 08:00:22,Environmental,Temperature,Front Door,76F
+2024-07-10 10:58:22,Environmental,Temperature,Bathroom,76F
+2024-07-13 19:37:22,Environmental,Humidity,Front Door,64%
+2024-07-12 06:57:22,Environmental,Temperature,Bedroom,68F
+2024-07-13 13:54:22,Environmental,Humidity,Kitchen,31%
+2024-07-08 13:16:22,Device Usage,Appliance,Living Room,Used
+2024-07-07 21:29:22,Environmental,Temperature,Living Room,72F
+2024-07-08 03:03:22,Security Event,Door,Bathroom,Opened
+2024-07-09 14:40:22,Device Usage,Thermostat,Living Room,Set to 69F
+2024-07-09 06:57:22,Device Usage,Appliance,Living Room,Used
+2024-07-11 22:03:22,Device Usage,Light,Living Room,On
+2024-07-08 23:46:22,Environmental,Temperature,Bedroom,65F
+2024-07-07 21:55:22,Security Event,Motion Sensor,Living Room,Opened
+2024-07-09 09:29:22,Environmental,Temperature,Living Room,84F
+2024-07-13 22:59:22,Security Event,Camera,Bedroom,Closed
+2024-07-11 13:19:22,Device Usage,Appliance,Bedroom,Used
+2024-07-12 18:36:22,Device Usage,Light,Living Room,Off
+2024-07-12 18:44:22,Device Usage,Light,Living Room,Off
+2024-07-14 13:44:22,Security Event,Motion Sensor,Bedroom,Opened
+2024-07-09 06:03:22,Device Usage,Appliance,Living Room,Used
+2024-07-10 01:47:22,Security Event,Door,Front Door,Closed
+2024-07-11 02:01:22,Device Usage,Light,Living Room,On
+2024-07-13 17:45:22,Device Usage,Light,Kitchen,Off
+2024-07-08 19:09:22,Environmental,Humidity,Living Room,42%
+2024-07-08 20:46:22,Security Event,Door,Kitchen,Motion Detected
+2024-07-09 14:23:22,Security Event,Motion Sensor,Front Door,Motion Detected
+2024-07-08 00:17:22,Environmental,Temperature,Bathroom,67F
+2024-07-10 11:36:22,Environmental,Humidity,Living Room,51%
+2024-07-09 21:48:22,Device Usage,Appliance,Kitchen,Used
+2024-07-12 09:54:22,Security Event,Motion Sensor,Living Room,Closed
+2024-07-10 18:56:22,Security Event,Motion Sensor,Bedroom,Closed
+2024-07-12 14:10:22,Device Usage,Light,Living Room,Off
+2024-07-12 16:05:22,Device Usage,Light,Living Room,Off
+2024-07-13 10:42:22,Security Event,Motion Sensor,Kitchen,Closed
+2024-07-09 17:34:22,Environmental,Temperature,Living Room,69F
+2024-07-07 23:21:22,Security Event,Door,Bedroom,Closed
+2024-07-13 04:26:22,Security Event,Motion Sensor,Bathroom,Closed
+2024-07-11 19:20:22,Security Event,Camera,Bedroom,Motion Detected
+2024-07-08 03:57:22,Device Usage,Thermostat,Bedroom,Set to 60F
+2024-07-13 18:36:22,Security Event,Camera,Front Door,Closed
+2024-07-12 20:09:22,Security Event,Camera,Living Room,Closed
+2024-07-09 23:05:22,Device Usage,Light,Bedroom,On
+2024-07-09 03:43:22,Security Event,Camera,Bathroom,Closed
+2024-07-09 03:42:22,Device Usage,Thermostat,Bathroom,Set to 67F
+2024-07-10 12:11:22,Device Usage,Light,Bedroom,Off
+2024-07-08 14:09:22,Device Usage,Appliance,Kitchen,Used
+2024-07-09 12:08:22,Environmental,Temperature,Front Door,71F
+2024-07-08 10:59:22,Environmental,Humidity,Bathroom,37%
+2024-07-12 01:00:22,Device Usage,Thermostat,Bedroom,Set to 70F
+2024-07-08 07:46:22,Device Usage,Thermostat,Bathroom,Set to 80F
+2024-07-09 01:05:22,Environmental,Temperature,Front Door,72F
+2024-07-14 15:18:22,Device Usage,Thermostat,Front Door,Set to 77F
+2024-07-13 05:34:22,Security Event,Motion Sensor,Bathroom,Opened
+2024-07-09 00:49:22,Environmental,Humidity,Living Room,58%
+2024-07-10 19:47:22,Security Event,Motion Sensor,Bathroom,Opened
+2024-07-10 12:37:22,Environmental,Humidity,Bedroom,44%
+2024-07-11 11:28:22,Device Usage,Thermostat,Bedroom,Set to 73F
+2024-07-13 19:57:22,Device Usage,Thermostat,Bathroom,Set to 75F
+2024-07-12 14:26:22,Environmental,Temperature,Living Room,77F
+2024-07-11 12:15:22,Security Event,Motion Sensor,Living Room,Opened
+2024-07-08 17:22:22,Device Usage,Thermostat,Kitchen,Set to 68F
+2024-07-09 22:47:22,Environmental,Humidity,Living Room,62%
+2024-07-13 14:24:22,Device Usage,Thermostat,Bedroom,Set to 73F
+2024-07-12 20:51:22,Security Event,Motion Sensor,Bedroom,Closed
+2024-07-11 15:26:22,Security Event,Motion Sensor,Bedroom,Motion Detected
+2024-07-13 03:48:22,Environmental,Temperature,Front Door,80F
+2024-07-09 06:19:22,Environmental,Humidity,Kitchen,42%
+2024-07-10 17:17:22,Device Usage,Thermostat,Bathroom,Set to 67F
+2024-07-08 17:08:22,Device Usage,Thermostat,Living Room,Set to 76F
+2024-07-09 20:09:22,Security Event,Motion Sensor,Bedroom,Motion Detected
+2024-07-13 12:02:22,Device Usage,Appliance,Living Room,Used
+2024-07-08 03:11:22,Environmental,Humidity,Living Room,64%
+2024-07-11 20:03:22,Environmental,Temperature,Bedroom,80F
+2024-07-12 11:02:22,Environmental,Humidity,Front Door,49%
+2024-07-09 21:19:22,Device Usage,Thermostat,Bedroom,Set to 66F
+2024-07-11 01:11:22,Security Event,Door,Bedroom,Motion Detected
+2024-07-12 22:46:22,Environmental,Temperature,Bedroom,60F
+2024-07-10 00:58:22,Device Usage,Thermostat,Front Door,Set to 73F
+2024-07-08 15:18:22,Device Usage,Light,Living Room,Off
+2024-07-08 08:57:22,Environmental,Humidity,Bedroom,70%
+2024-07-13 19:51:22,Environmental,Temperature,Bathroom,79F
+2024-07-13 03:25:22,Device Usage,Light,Bedroom,Off
+2024-07-13 17:23:22,Environmental,Temperature,Bedroom,60F
+2024-07-13 18:35:22,Device Usage,Appliance,Kitchen,Used
+2024-07-09 12:57:22,Security Event,Camera,Bedroom,Closed
+2024-07-09 14:32:22,Security Event,Door,Front Door,Opened
+2024-07-09 04:37:22,Security Event,Motion Sensor,Living Room,Closed
+2024-07-11 15:36:22,Environmental,Temperature,Kitchen,70F
+2024-07-12 03:37:22,Environmental,Temperature,Bathroom,85F
+2024-07-08 09:44:22,Environmental,Humidity,Bedroom,59%
+2024-07-12 00:15:22,Device Usage,Thermostat,Bathroom,Set to 61F
+2024-07-08 21:43:22,Environmental,Humidity,Bathroom,62%
+2024-07-08 06:01:22,Security Event,Door,Bedroom,Opened
+2024-07-12 12:56:22,Environmental,Temperature,Kitchen,65F
+2024-07-12 13:51:22,Environmental,Temperature,Bedroom,85F
+2024-07-14 09:14:22,Environmental,Humidity,Front Door,31%
+2024-07-13 01:51:22,Security Event,Door,Living Room,Motion Detected
+2024-07-14 12:29:22,Device Usage,Appliance,Bathroom,Used
+2024-07-10 15:17:22,Environmental,Humidity,Kitchen,45%
+2024-07-10 14:04:22,Security Event,Door,Bedroom,Motion Detected
+2024-07-12 10:20:22,Security Event,Motion Sensor,Bathroom,Closed
+2024-07-09 17:45:22,Security Event,Door,Kitchen,Motion Detected
+2024-07-11 10:30:22,Device Usage,Thermostat,Front Door,Set to 64F
+2024-07-14 00:12:22,Security Event,Door,Living Room,Closed
+2024-07-08 04:31:22,Device Usage,Light,Bedroom,On
+2024-07-10 23:48:22,Device Usage,Appliance,Kitchen,Used
+2024-07-10 13:27:22,Device Usage,Light,Front Door,On
+2024-07-12 14:30:22,Device Usage,Thermostat,Bedroom,Set to 66F
+2024-07-09 18:39:22,Security Event,Camera,Bathroom,Opened
+2024-07-09 15:58:22,Security Event,Motion Sensor,Bedroom,Opened
+2024-07-14 16:47:22,Environmental,Humidity,Living Room,32%
+2024-07-11 14:17:22,Security Event,Door,Front Door,Opened
+2024-07-12 23:05:22,Environmental,Temperature,Front Door,69F
+2024-07-12 03:34:22,Environmental,Temperature,Kitchen,84F
+2024-07-10 05:24:22,Device Usage,Thermostat,Front Door,Set to 73F
+2024-07-14 02:16:22,Device Usage,Thermostat,Living Room,Set to 80F
+2024-07-08 17:30:22,Environmental,Humidity,Front Door,63%
+2024-07-09 17:32:22,Device Usage,Appliance,Front Door,Used
+2024-07-08 13:04:22,Device Usage,Appliance,Front Door,Used
+2024-07-13 13:29:22,Device Usage,Thermostat,Bathroom,Set to 70F
+2024-07-11 19:43:22,Security Event,Camera,Bedroom,Motion Detected
+2024-07-08 01:48:22,Environmental,Temperature,Bedroom,78F
+2024-07-12 09:42:22,Device Usage,Appliance,Bathroom,Used
+2024-07-12 09:51:22,Security Event,Camera,Bathroom,Closed
+2024-07-11 17:00:22,Environmental,Temperature,Bedroom,85F
+2024-07-10 13:12:22,Device Usage,Light,Kitchen,Off
+2024-07-08 17:22:22,Environmental,Humidity,Kitchen,61%
+2024-07-10 22:04:22,Environmental,Temperature,Bathroom,64F
+2024-07-13 16:00:22,Environmental,Temperature,Bedroom,69F
+2024-07-09 03:28:22,Device Usage,Light,Kitchen,On
+2024-07-14 00:37:22,Security Event,Motion Sensor,Bathroom,Opened
+2024-07-10 11:43:22,Environmental,Temperature,Bathroom,84F
+2024-07-13 15:16:22,Security Event,Door,Bathroom,Opened
+2024-07-12 23:02:22,Environmental,Temperature,Bathroom,71F
+2024-07-13 17:18:22,Environmental,Temperature,Bathroom,62F
+2024-07-13 00:56:22,Security Event,Door,Living Room,Closed
+2024-07-11 14:43:22,Security Event,Camera,Bathroom,Closed
+2024-07-10 16:28:22,Security Event,Door,Bathroom,Opened
+2024-07-12 05:31:22,Security Event,Door,Kitchen,Closed
+2024-07-08 04:38:22,Device Usage,Thermostat,Living Room,Set to 79F
+2024-07-09 02:22:22,Environmental,Temperature,Kitchen,61F
+2024-07-11 21:26:22,Environmental,Temperature,Bathroom,63F
+2024-07-13 00:49:22,Device Usage,Thermostat,Bedroom,Set to 78F
+2024-07-09 21:25:22,Device Usage,Light,Front Door,Off
+2024-07-13 05:20:22,Environmental,Humidity,Front Door,33%
+2024-07-12 01:17:22,Security Event,Motion Sensor,Living Room,Motion Detected
+2024-07-08 22:30:22,Device Usage,Thermostat,Bedroom,Set to 70F
+2024-07-09 13:07:22,Environmental,Humidity,Front Door,63%
+2024-07-11 05:28:22,Security Event,Motion Sensor,Living Room,Closed
+2024-07-09 03:16:22,Device Usage,Thermostat,Living Room,Set to 75F
+2024-07-08 01:12:22,Device Usage,Thermostat,Front Door,Set to 60F
+2024-07-08 13:52:22,Environmental,Temperature,Front Door,70F
+2024-07-12 00:43:22,Environmental,Temperature,Front Door,70F
+2024-07-09 00:54:22,Device Usage,Thermostat,Bathroom,Set to 71F
+2024-07-10 21:46:22,Security Event,Motion Sensor,Bedroom,Opened
+2024-07-10 08:53:22,Device Usage,Appliance,Front Door,Used
+2024-07-13 14:41:22,Security Event,Motion Sensor,Front Door,Motion Detected
+2024-07-09 02:58:22,Environmental,Temperature,Bathroom,61F
+2024-07-09 22:11:22,Security Event,Motion Sensor,Kitchen,Closed
+2024-07-10 14:05:22,Environmental,Temperature,Kitchen,85F
+2024-07-13 15:44:22,Device Usage,Appliance,Living Room,Used
+2024-07-13 09:43:22,Environmental,Temperature,Living Room,81F
+2024-07-12 04:15:22,Security Event,Door,Bathroom,Opened
+2024-07-14 07:43:22,Security Event,Door,Bedroom,Opened
+2024-07-12 21:38:22,Device Usage,Appliance,Bathroom,Used
+2024-07-11 10:48:22,Device Usage,Thermostat,Kitchen,Set to 69F
+2024-07-08 03:49:22,Device Usage,Light,Bedroom,On
+2024-07-10 09:58:22,Security Event,Motion Sensor,Living Room,Closed
+2024-07-08 22:42:22,Device Usage,Appliance,Kitchen,Used
+2024-07-08 12:26:22,Environmental,Temperature,Front Door,78F
+2024-07-10 22:24:22,Environmental,Temperature,Bathroom,84F
+2024-07-08 19:35:22,Environmental,Temperature,Living Room,82F
+2024-07-11 11:38:22,Environmental,Humidity,Front Door,32%
+2024-07-13 18:30:22,Environmental,Humidity,Living Room,51%
+2024-07-08 06:53:22,Security Event,Door,Kitchen,Opened
+2024-07-09 03:58:22,Device Usage,Light,Bathroom,Off
+2024-07-10 05:08:22,Device Usage,Thermostat,Kitchen,Set to 70F
+2024-07-11 13:10:22,Environmental,Temperature,Bedroom,63F
+2024-07-11 18:22:22,Environmental,Humidity,Living Room,64%
+2024-07-11 06:53:22,Security Event,Motion Sensor,Living Room,Motion Detected
+2024-07-11 15:43:22,Security Event,Camera,Front Door,Closed
+2024-07-12 08:56:22,Security Event,Door,Living Room,Motion Detected
+2024-07-13 14:16:22,Device Usage,Appliance,Front Door,Used
+2024-07-13 09:10:22,Device Usage,Thermostat,Bedroom,Set to 61F
+2024-07-13 11:21:22,Environmental,Temperature,Kitchen,81F
+2024-07-12 07:37:22,Device Usage,Appliance,Front Door,Used
+2024-07-12 05:22:22,Environmental,Humidity,Front Door,58%
+2024-07-10 05:33:22,Device Usage,Appliance,Front Door,Used
+2024-07-10 12:04:22,Environmental,Temperature,Living Room,84F
+2024-07-10 07:22:22,Environmental,Humidity,Kitchen,65%
+2024-07-08 09:15:22,Device Usage,Light,Bedroom,On
+2024-07-08 12:53:22,Security Event,Camera,Bathroom,Closed
+2024-07-08 18:27:22,Environmental,Temperature,Living Room,67F
+2024-07-10 18:05:22,Device Usage,Appliance,Front Door,Used
+2024-07-13 15:44:22,Environmental,Humidity,Bedroom,45%
+2024-07-13 21:49:22,Security Event,Camera,Bathroom,Opened
+2024-07-10 02:45:22,Device Usage,Appliance,Kitchen,Used
+2024-07-13 03:36:22,Environmental,Temperature,Front Door,62F
+2024-07-10 05:37:22,Device Usage,Appliance,Kitchen,Used
+2024-07-11 12:49:22,Environmental,Humidity,Bedroom,36%
+2024-07-14 09:50:22,Environmental,Humidity,Kitchen,55%
+2024-07-13 07:04:22,Security Event,Motion Sensor,Bathroom,Closed
+2024-07-11 09:32:22,Environmental,Temperature,Kitchen,76F
+2024-07-14 08:02:22,Environmental,Humidity,Front Door,46%
+2024-07-14 00:32:22,Security Event,Camera,Bedroom,Opened
+2024-07-09 11:25:22,Device Usage,Thermostat,Living Room,Set to 77F
+2024-07-13 14:41:22,Security Event,Camera,Bedroom,Closed
+2024-07-11 06:27:22,Environmental,Temperature,Bedroom,60F
+2024-07-12 22:06:22,Security Event,Camera,Front Door,Closed
+2024-07-14 04:26:22,Security Event,Motion Sensor,Front Door,Opened
+2024-07-08 02:31:22,Environmental,Temperature,Kitchen,74F
+2024-07-09 00:14:22,Security Event,Door,Bedroom,Opened
+2024-07-14 12:35:22,Environmental,Humidity,Kitchen,61%
+2024-07-08 03:47:22,Environmental,Humidity,Bathroom,69%
+2024-07-10 12:37:22,Security Event,Door,Bedroom,Closed
+2024-07-11 04:04:22,Device Usage,Light,Bedroom,Off
+2024-07-10 10:35:22,Security Event,Camera,Kitchen,Opened
+2024-07-08 07:34:22,Device Usage,Appliance,Bathroom,Used
+2024-07-13 03:06:22,Device Usage,Thermostat,Living Room,Set to 79F
+2024-07-11 22:22:22,Environmental,Humidity,Living Room,61%
+2024-07-13 14:38:22,Security Event,Motion Sensor,Living Room,Closed
+2024-07-11 03:09:22,Security Event,Door,Living Room,Motion Detected
+2024-07-12 21:13:22,Security Event,Door,Living Room,Motion Detected
+2024-07-09 11:48:22,Device Usage,Light,Bathroom,Off
+2024-07-14 13:36:22,Security Event,Door,Kitchen,Closed
+2024-07-09 12:53:22,Device Usage,Light,Kitchen,On
+2024-07-11 01:10:22,Environmental,Humidity,Kitchen,60%
+2024-07-12 12:54:22,Security Event,Door,Bathroom,Closed
+2024-07-12 13:48:22,Environmental,Temperature,Front Door,80F
+2024-07-11 16:20:22,Security Event,Door,Kitchen,Closed
+2024-07-08 11:23:22,Security Event,Motion Sensor,Bedroom,Opened
+2024-07-14 11:46:22,Device Usage,Appliance,Bedroom,Used
+2024-07-14 02:27:22,Security Event,Door,Bedroom,Opened
+2024-07-08 03:51:22,Environmental,Humidity,Bathroom,41%
+2024-07-08 01:21:22,Device Usage,Appliance,Front Door,Used
+2024-07-10 20:36:22,Security Event,Motion Sensor,Living Room,Motion Detected
+2024-07-13 10:10:22,Device Usage,Appliance,Kitchen,Used
+2024-07-08 14:07:22,Security Event,Door,Bathroom,Closed
+2024-07-10 03:12:22,Device Usage,Appliance,Living Room,Used
+2024-07-14 11:47:22,Environmental,Temperature,Bathroom,78F
+2024-07-07 23:27:22,Device Usage,Appliance,Kitchen,Used
+2024-07-10 05:46:22,Environmental,Temperature,Bedroom,64F
+2024-07-08 18:15:22,Environmental,Humidity,Bathroom,43%
+2024-07-12 11:28:22,Device Usage,Thermostat,Front Door,Set to 66F
+2024-07-09 03:16:22,Device Usage,Thermostat,Front Door,Set to 76F
+2024-07-09 02:58:22,Device Usage,Thermostat,Bathroom,Set to 71F
+2024-07-14 17:53:22,Environmental,Temperature,Bedroom,72F
+2024-07-11 23:58:22,Device Usage,Light,Kitchen,Off
+2024-07-14 11:30:22,Device Usage,Thermostat,Front Door,Set to 68F
+2024-07-14 12:08:22,Security Event,Motion Sensor,Bathroom,Motion Detected
+2024-07-08 05:31:22,Device Usage,Thermostat,Bedroom,Set to 64F
+2024-07-08 04:48:22,Security Event,Motion Sensor,Bathroom,Opened
+2024-07-11 22:06:22,Security Event,Camera,Living Room,Opened
+2024-07-11 08:47:22,Security Event,Door,Kitchen,Motion Detected
+2024-07-13 10:24:22,Security Event,Camera,Bedroom,Motion Detected
+2024-07-13 00:00:22,Device Usage,Appliance,Living Room,Used
+2024-07-13 12:40:22,Environmental,Temperature,Front Door,66F
+2024-07-09 17:35:22,Security Event,Camera,Living Room,Motion Detected
+2024-07-13 04:27:22,Security Event,Motion Sensor,Bedroom,Closed
+2024-07-08 16:51:22,Security Event,Camera,Bedroom,Closed
+2024-07-09 20:17:22,Security Event,Motion Sensor,Bathroom,Closed
+2024-07-09 05:26:22,Environmental,Humidity,Bathroom,40%
+2024-07-09 08:11:22,Device Usage,Light,Bathroom,On
+2024-07-12 07:14:22,Environmental,Humidity,Kitchen,39%
+2024-07-13 23:08:22,Device Usage,Appliance,Front Door,Used
+2024-07-11 07:15:22,Environmental,Temperature,Bedroom,72F
+2024-07-12 05:53:22,Device Usage,Appliance,Kitchen,Used
+2024-07-13 10:15:22,Environmental,Temperature,Living Room,67F
+2024-07-14 11:30:22,Security Event,Motion Sensor,Living Room,Motion Detected
+2024-07-12 23:16:22,Device Usage,Light,Front Door,On
+2024-07-08 17:32:22,Device Usage,Appliance,Front Door,Used
+2024-07-12 18:35:22,Security Event,Motion Sensor,Kitchen,Motion Detected
+2024-07-11 16:24:22,Security Event,Camera,Front Door,Closed
+2024-07-13 10:17:22,Security Event,Motion Sensor,Bathroom,Opened
+2024-07-12 15:42:22,Device Usage,Thermostat,Kitchen,Set to 67F
+2024-07-12 15:29:22,Security Event,Door,Living Room,Motion Detected
+2024-07-08 14:49:22,Environmental,Humidity,Kitchen,37%
+2024-07-09 21:50:22,Environmental,Temperature,Living Room,65F
+2024-07-12 12:12:22,Environmental,Temperature,Living Room,60F
+2024-07-13 23:13:22,Security Event,Door,Front Door,Opened
+2024-07-13 16:37:22,Security Event,Camera,Living Room,Motion Detected
+2024-07-10 02:49:22,Environmental,Temperature,Kitchen,73F
+2024-07-14 15:14:22,Environmental,Temperature,Bathroom,82F
+2024-07-13 13:15:22,Environmental,Temperature,Front Door,61F
+2024-07-10 11:39:22,Environmental,Temperature,Living Room,77F
+2024-07-10 02:45:22,Environmental,Temperature,Front Door,61F
+2024-07-11 08:37:22,Environmental,Temperature,Front Door,76F
+2024-07-08 03:47:22,Environmental,Temperature,Front Door,60F
+2024-07-13 02:51:22,Environmental,Temperature,Bedroom,70F
+2024-07-12 15:14:22,Security Event,Motion Sensor,Front Door,Motion Detected
+2024-07-12 23:02:22,Security Event,Motion Sensor,Bedroom,Closed
+2024-07-08 03:22:22,Security Event,Camera,Kitchen,Closed
+2024-07-11 20:53:22,Security Event,Motion Sensor,Kitchen,Motion Detected
+2024-07-09 08:20:22,Security Event,Camera,Bathroom,Closed
+2024-07-10 05:09:22,Security Event,Door,Front Door,Motion Detected
+2024-07-13 11:34:22,Security Event,Camera,Bedroom,Opened
+2024-07-08 15:17:22,Environmental,Humidity,Bathroom,65%
+2024-07-13 09:27:22,Environmental,Humidity,Kitchen,68%
+2024-07-09 07:32:22,Security Event,Motion Sensor,Bathroom,Closed
+2024-07-09 17:37:22,Environmental,Temperature,Living Room,71F
+2024-07-12 07:51:22,Security Event,Door,Bedroom,Motion Detected
+2024-07-10 18:38:22,Security Event,Camera,Kitchen,Closed
+2024-07-14 13:14:22,Device Usage,Thermostat,Kitchen,Set to 60F
+2024-07-13 04:05:22,Security Event,Motion Sensor,Front Door,Opened
+2024-07-08 05:21:22,Device Usage,Light,Kitchen,Off
+2024-07-13 17:46:22,Environmental,Temperature,Bathroom,61F
+2024-07-13 20:43:22,Device Usage,Appliance,Bathroom,Used
+2024-07-11 00:29:22,Security Event,Camera,Bedroom,Closed
+2024-07-11 10:56:22,Device Usage,Appliance,Kitchen,Used
+2024-07-13 11:09:22,Security Event,Camera,Living Room,Motion Detected
+2024-07-14 18:03:22,Security Event,Door,Bedroom,Closed
+2024-07-10 18:19:22,Security Event,Motion Sensor,Bathroom,Motion Detected
+2024-07-13 00:09:22,Device Usage,Thermostat,Bathroom,Set to 68F
+2024-07-09 19:25:22,Environmental,Temperature,Bathroom,64F
+2024-07-08 06:13:22,Security Event,Motion Sensor,Bedroom,Opened
+2024-07-11 15:31:22,Security Event,Camera,Living Room,Closed
+2024-07-08 10:46:22,Security Event,Motion Sensor,Front Door,Opened
+2024-07-08 17:23:22,Environmental,Temperature,Bedroom,61F
+2024-07-12 00:44:22,Device Usage,Thermostat,Front Door,Set to 71F
+2024-07-08 05:02:22,Device Usage,Thermostat,Front Door,Set to 62F
+2024-07-09 02:05:22,Security Event,Motion Sensor,Bathroom,Motion Detected
+2024-07-08 22:09:22,Device Usage,Appliance,Front Door,Used
+2024-07-08 09:52:22,Security Event,Camera,Living Room,Opened
+2024-07-13 09:04:22,Device Usage,Thermostat,Bathroom,Set to 63F
+2024-07-14 08:39:22,Environmental,Humidity,Kitchen,65%
+2024-07-11 16:03:22,Environmental,Temperature,Living Room,64F
+2024-07-14 02:32:22,Security Event,Camera,Kitchen,Closed
+2024-07-09 00:24:22,Device Usage,Thermostat,Kitchen,Set to 79F
+2024-07-08 20:02:22,Device Usage,Thermostat,Kitchen,Set to 79F
+2024-07-12 22:57:22,Security Event,Door,Front Door,Opened
+2024-07-11 03:57:22,Environmental,Humidity,Kitchen,57%
+2024-07-10 08:51:22,Device Usage,Thermostat,Front Door,Set to 69F
+2024-07-13 22:08:22,Device Usage,Thermostat,Front Door,Set to 70F
+2024-07-14 06:30:22,Device Usage,Thermostat,Front Door,Set to 75F
+2024-07-11 19:44:22,Environmental,Humidity,Bedroom,45%
+2024-07-08 16:39:22,Environmental,Humidity,Front Door,46%
+2024-07-12 03:33:22,Environmental,Temperature,Bedroom,67F
+2024-07-14 15:56:22,Environmental,Humidity,Front Door,59%
+2024-07-09 22:38:22,Environmental,Temperature,Bedroom,75F
+2024-07-08 19:13:22,Security Event,Motion Sensor,Kitchen,Opened
+2024-07-11 07:52:22,Environmental,Temperature,Front Door,64F
+2024-07-12 01:20:22,Device Usage,Light,Living Room,On
+2024-07-08 01:25:22,Device Usage,Light,Kitchen,On
+2024-07-11 13:03:22,Security Event,Motion Sensor,Bedroom,Opened
+2024-07-10 08:16:22,Device Usage,Thermostat,Bedroom,Set to 62F
+2024-07-08 05:39:22,Device Usage,Thermostat,Bedroom,Set to 78F
+2024-07-11 16:58:22,Security Event,Motion Sensor,Bathroom,Opened
+2024-07-13 14:23:22,Environmental,Temperature,Living Room,67F
+2024-07-13 00:26:22,Device Usage,Light,Bedroom,On
+2024-07-12 05:52:22,Device Usage,Light,Bedroom,On
+2024-07-12 05:46:22,Security Event,Camera,Bedroom,Motion Detected
+2024-07-10 23:35:22,Environmental,Temperature,Front Door,69F
+2024-07-12 11:02:22,Environmental,Humidity,Front Door,51%
+2024-07-13 00:09:22,Security Event,Camera,Bedroom,Opened
+2024-07-11 18:19:22,Environmental,Temperature,Front Door,60F
+2024-07-11 09:52:22,Environmental,Humidity,Kitchen,51%
+2024-07-12 22:48:22,Environmental,Temperature,Bedroom,72F
+2024-07-13 20:49:22,Security Event,Door,Bedroom,Opened
+2024-07-13 18:47:22,Security Event,Camera,Kitchen,Opened
+2024-07-08 15:22:22,Environmental,Temperature,Kitchen,69F
+2024-07-09 18:13:22,Environmental,Humidity,Bedroom,64%
+2024-07-08 19:06:22,Security Event,Door,Bedroom,Motion Detected
+2024-07-08 09:33:22,Environmental,Humidity,Bathroom,47%
+2024-07-10 12:31:22,Environmental,Temperature,Bedroom,82F
+2024-07-09 19:06:22,Device Usage,Appliance,Bedroom,Used
+2024-07-10 13:58:22,Device Usage,Thermostat,Front Door,Set to 65F
+2024-07-08 07:12:22,Environmental,Humidity,Bathroom,43%
+2024-07-13 04:44:22,Environmental,Humidity,Front Door,38%
+2024-07-14 07:52:22,Device Usage,Appliance,Kitchen,Used
+2024-07-08 19:42:22,Security Event,Motion Sensor,Kitchen,Motion Detected
+2024-07-10 22:32:22,Security Event,Camera,Front Door,Opened
+2024-07-09 08:26:22,Security Event,Camera,Front Door,Motion Detected
+2024-07-09 04:42:22,Environmental,Humidity,Living Room,56%
+2024-07-12 03:05:22,Environmental,Humidity,Living Room,44%
+2024-07-11 18:35:22,Environmental,Humidity,Living Room,57%
+2024-07-12 11:52:22,Environmental,Temperature,Bedroom,66F
+2024-07-09 11:56:22,Environmental,Humidity,Kitchen,70%
+2024-07-09 08:33:22,Environmental,Humidity,Bathroom,41%
+2024-07-10 07:15:22,Security Event,Door,Bedroom,Motion Detected
+2024-07-14 05:33:22,Device Usage,Light,Bathroom,Off
+2024-07-12 05:12:22,Device Usage,Thermostat,Kitchen,Set to 75F
+2024-07-11 20:13:22,Device Usage,Appliance,Front Door,Used
+2024-07-12 23:30:22,Security Event,Camera,Living Room,Closed
+2024-07-14 01:30:22,Environmental,Temperature,Living Room,84F
+2024-07-14 16:42:22,Device Usage,Thermostat,Bedroom,Set to 67F
+2024-07-10 11:58:22,Environmental,Temperature,Kitchen,80F
+2024-07-12 19:15:22,Environmental,Humidity,Front Door,49%
+2024-07-13 16:36:22,Security Event,Motion Sensor,Front Door,Motion Detected
+2024-07-13 01:38:22,Device Usage,Thermostat,Living Room,Set to 70F
+2024-07-10 22:48:22,Security Event,Motion Sensor,Living Room,Opened
+2024-07-08 04:44:22,Security Event,Motion Sensor,Living Room,Closed
+2024-07-13 00:52:22,Environmental,Temperature,Bathroom,85F
+2024-07-13 18:09:22,Security Event,Motion Sensor,Front Door,Motion Detected
+2024-07-12 04:05:22,Security Event,Door,Living Room,Motion Detected
+2024-07-10 09:11:22,Device Usage,Light,Front Door,On
+2024-07-10 10:05:22,Security Event,Camera,Living Room,Opened
+2024-07-09 00:00:22,Device Usage,Thermostat,Bathroom,Set to 75F
+2024-07-12 18:49:22,Device Usage,Appliance,Kitchen,Used
+2024-07-12 16:55:22,Environmental,Temperature,Living Room,78F
+2024-07-14 15:45:22,Device Usage,Appliance,Living Room,Used
+2024-07-12 05:32:22,Device Usage,Light,Kitchen,On
+2024-07-10 04:33:22,Environmental,Temperature,Front Door,71F
+2024-07-14 03:29:22,Security Event,Motion Sensor,Front Door,Motion Detected
+2024-07-11 11:51:22,Device Usage,Appliance,Kitchen,Used
+2024-07-08 06:16:22,Device Usage,Light,Bedroom,On
+2024-07-08 22:35:22,Environmental,Temperature,Kitchen,79F
+2024-07-12 02:14:22,Security Event,Camera,Front Door,Closed
+2024-07-08 16:20:22,Device Usage,Appliance,Kitchen,Used
+2024-07-11 23:05:22,Security Event,Door,Bathroom,Opened
+2024-07-09 04:48:22,Security Event,Door,Front Door,Motion Detected
+2024-07-12 22:31:22,Device Usage,Appliance,Kitchen,Used
+2024-07-13 12:49:22,Environmental,Humidity,Front Door,35%
+2024-07-13 01:01:22,Environmental,Humidity,Living Room,58%
+2024-07-12 23:02:22,Environmental,Temperature,Bedroom,75F
+2024-07-12 13:27:22,Device Usage,Appliance,Kitchen,Used
+2024-07-12 07:57:22,Security Event,Camera,Living Room,Motion Detected
+2024-07-09 12:41:22,Device Usage,Thermostat,Bathroom,Set to 64F
+2024-07-08 13:21:22,Device Usage,Light,Living Room,On
+2024-07-10 06:54:22,Device Usage,Light,Bathroom,Off
+2024-07-08 02:05:22,Device Usage,Appliance,Living Room,Used
+2024-07-11 15:29:22,Environmental,Temperature,Bedroom,74F
+2024-07-10 02:54:22,Environmental,Humidity,Bedroom,31%
+2024-07-09 17:49:22,Environmental,Temperature,Front Door,62F
+2024-07-11 09:43:22,Security Event,Door,Front Door,Motion Detected
+2024-07-08 21:34:22,Device Usage,Thermostat,Living Room,Set to 62F
+2024-07-12 13:38:22,Device Usage,Light,Living Room,On
+2024-07-11 01:45:22,Environmental,Temperature,Living Room,81F
+2024-07-12 05:51:22,Device Usage,Thermostat,Bedroom,Set to 60F
+2024-07-13 22:11:22,Environmental,Humidity,Kitchen,32%
+2024-07-14 14:28:22,Environmental,Humidity,Bathroom,51%
+2024-07-10 21:18:22,Environmental,Humidity,Bathroom,33%
+2024-07-08 15:19:22,Device Usage,Thermostat,Bathroom,Set to 67F
+2024-07-09 15:19:22,Security Event,Door,Living Room,Motion Detected
+2024-07-14 10:41:22,Environmental,Temperature,Bedroom,68F
+2024-07-09 07:39:22,Device Usage,Light,Bedroom,On
+2024-07-10 15:24:22,Environmental,Humidity,Kitchen,30%
+2024-07-13 18:06:22,Security Event,Door,Kitchen,Closed
+2024-07-10 12:44:22,Security Event,Motion Sensor,Front Door,Closed
+2024-07-12 16:02:22,Device Usage,Thermostat,Kitchen,Set to 60F
+2024-07-08 07:26:22,Device Usage,Light,Bathroom,Off
+2024-07-12 03:47:22,Device Usage,Light,Living Room,On
+2024-07-13 09:54:22,Device Usage,Appliance,Kitchen,Used
+2024-07-11 08:00:22,Environmental,Humidity,Bedroom,49%
+2024-07-08 03:46:22,Device Usage,Light,Kitchen,Off
+2024-07-10 13:06:22,Device Usage,Light,Bathroom,Off
+2024-07-13 21:27:22,Device Usage,Light,Bedroom,On
+2024-07-12 11:35:22,Device Usage,Appliance,Front Door,Used
+2024-07-14 17:18:22,Environmental,Humidity,Front Door,50%
+2024-07-08 16:48:22,Environmental,Humidity,Living Room,63%
+2024-07-08 22:57:22,Device Usage,Light,Living Room,Off
+2024-07-09 00:33:22,Device Usage,Appliance,Kitchen,Used
+2024-07-11 06:19:22,Environmental,Temperature,Front Door,70F
+2024-07-11 09:49:22,Environmental,Humidity,Bedroom,49%
+2024-07-14 18:45:22,Device Usage,Light,Bathroom,Off
+2024-07-12 21:44:22,Environmental,Humidity,Bedroom,65%
+2024-07-14 14:04:22,Device Usage,Thermostat,Living Room,Set to 60F
+2024-07-09 04:01:22,Environmental,Temperature,Bedroom,76F
+2024-07-12 03:21:22,Security Event,Door,Bathroom,Opened
+2024-07-14 16:38:22,Environmental,Temperature,Bathroom,67F
+2024-07-12 03:38:22,Security Event,Door,Front Door,Motion Detected
+2024-07-14 09:16:22,Security Event,Motion Sensor,Bedroom,Opened
+2024-07-10 04:40:22,Environmental,Humidity,Kitchen,51%
+2024-07-12 21:05:22,Environmental,Humidity,Bathroom,59%
+2024-07-11 08:32:22,Environmental,Humidity,Bedroom,65%
+2024-07-07 21:29:22,Device Usage,Appliance,Bathroom,Used
+2024-07-09 04:39:22,Environmental,Humidity,Kitchen,47%
+2024-07-08 07:08:22,Security Event,Motion Sensor,Kitchen,Opened
+2024-07-10 06:12:22,Device Usage,Thermostat,Bathroom,Set to 77F
+2024-07-08 15:49:22,Security Event,Motion Sensor,Living Room,Opened
+2024-07-11 12:29:22,Device Usage,Appliance,Living Room,Used
+2024-07-09 05:49:22,Security Event,Door,Kitchen,Motion Detected
+2024-07-09 18:59:22,Security Event,Camera,Bedroom,Closed
+2024-07-07 22:40:22,Security Event,Camera,Kitchen,Closed
+2024-07-10 03:04:22,Device Usage,Appliance,Living Room,Used
+2024-07-11 16:33:22,Security Event,Door,Bathroom,Closed
+2024-07-09 04:46:22,Device Usage,Appliance,Living Room,Used
+2024-07-13 10:16:22,Security Event,Door,Living Room,Opened
+2024-07-11 00:11:22,Environmental,Temperature,Bedroom,81F
+2024-07-08 12:10:22,Environmental,Temperature,Living Room,62F
+2024-07-09 15:52:22,Device Usage,Light,Front Door,Off
+2024-07-14 06:00:22,Device Usage,Appliance,Kitchen,Used
+2024-07-13 10:54:22,Environmental,Temperature,Front Door,62F
+2024-07-13 16:12:22,Environmental,Humidity,Bedroom,60%
+2024-07-13 11:12:22,Security Event,Door,Bedroom,Closed
+2024-07-12 23:09:22,Security Event,Motion Sensor,Front Door,Motion Detected
+2024-07-07 23:10:22,Security Event,Motion Sensor,Bedroom,Closed
+2024-07-11 23:41:22,Device Usage,Light,Front Door,On
+2024-07-11 09:22:22,Security Event,Door,Front Door,Closed
+2024-07-13 17:42:22,Security Event,Motion Sensor,Bedroom,Opened
+2024-07-12 00:39:22,Security Event,Motion Sensor,Kitchen,Opened
+2024-07-13 10:37:22,Security Event,Door,Living Room,Closed
+2024-07-10 21:27:22,Security Event,Motion Sensor,Bedroom,Closed
+2024-07-13 22:06:22,Security Event,Camera,Kitchen,Motion Detected
+2024-07-09 19:51:22,Security Event,Camera,Front Door,Opened
+2024-07-12 13:21:22,Device Usage,Thermostat,Bedroom,Set to 72F
+2024-07-14 11:50:22,Security Event,Camera,Bedroom,Closed
+2024-07-11 12:27:22,Environmental,Humidity,Front Door,51%
+2024-07-13 07:06:22,Security Event,Camera,Kitchen,Opened
+2024-07-14 10:02:22,Security Event,Motion Sensor,Bedroom,Closed
+2024-07-10 08:38:22,Device Usage,Thermostat,Kitchen,Set to 64F
+2024-07-09 19:23:22,Device Usage,Light,Living Room,Off
+2024-07-14 16:00:22,Security Event,Motion Sensor,Kitchen,Opened
+2024-07-13 10:04:22,Environmental,Temperature,Front Door,72F
+2024-07-08 11:27:22,Environmental,Humidity,Bathroom,35%
+2024-07-09 21:51:22,Device Usage,Thermostat,Front Door,Set to 74F
+2024-07-09 10:54:22,Environmental,Humidity,Bathroom,52%
+2024-07-13 05:23:22,Environmental,Temperature,Bedroom,72F
+2024-07-12 05:44:22,Security Event,Motion Sensor,Bathroom,Closed
+2024-07-12 13:04:22,Security Event,Motion Sensor,Living Room,Motion Detected
+2024-07-13 23:49:22,Security Event,Camera,Bathroom,Opened
+2024-07-08 23:12:22,Environmental,Humidity,Bedroom,61%
+2024-07-09 07:37:22,Environmental,Humidity,Bedroom,31%
+2024-07-10 07:10:22,Device Usage,Light,Bedroom,On
+2024-07-08 00:14:22,Device Usage,Light,Bathroom,On
+2024-07-08 12:29:22,Security Event,Motion Sensor,Living Room,Closed
+2024-07-12 01:46:22,Security Event,Camera,Front Door,Opened
+2024-07-10 21:06:22,Security Event,Motion Sensor,Kitchen,Opened
+2024-07-08 21:18:22,Device Usage,Light,Living Room,Off
+2024-07-11 02:27:22,Security Event,Door,Front Door,Motion Detected
+2024-07-14 12:08:22,Device Usage,Thermostat,Kitchen,Set to 71F
+2024-07-10 11:09:22,Security Event,Motion Sensor,Bathroom,Opened
+2024-07-08 04:55:22,Device Usage,Light,Front Door,On
+2024-07-09 04:12:22,Environmental,Temperature,Kitchen,76F
+2024-07-13 05:07:22,Environmental,Humidity,Kitchen,61%
+2024-07-11 13:14:22,Environmental,Temperature,Bathroom,85F
+2024-07-09 04:29:22,Device Usage,Light,Kitchen,Off
+2024-07-09 22:50:22,Security Event,Door,Bedroom,Motion Detected
+2024-07-11 20:36:22,Security Event,Motion Sensor,Bathroom,Opened
+2024-07-13 15:44:22,Environmental,Humidity,Bedroom,38%
+2024-07-09 14:35:22,Security Event,Door,Front Door,Opened
+2024-07-09 14:24:22,Security Event,Door,Kitchen,Opened
+2024-07-12 08:56:22,Device Usage,Light,Bathroom,On
+2024-07-11 14:50:22,Environmental,Temperature,Living Room,63F
+2024-07-14 05:23:22,Environmental,Humidity,Kitchen,64%
+2024-07-12 13:50:22,Device Usage,Appliance,Bathroom,Used
+2024-07-08 21:40:22,Security Event,Door,Kitchen,Motion Detected
+2024-07-12 16:46:22,Device Usage,Thermostat,Bathroom,Set to 79F
+2024-07-10 15:58:22,Environmental,Temperature,Front Door,70F
+2024-07-13 06:19:22,Device Usage,Light,Bathroom,On
+2024-07-11 12:33:22,Environmental,Temperature,Bathroom,70F
+2024-07-09 16:45:22,Device Usage,Light,Living Room,Off
+2024-07-10 03:11:22,Device Usage,Thermostat,Kitchen,Set to 71F
+2024-07-14 14:04:22,Device Usage,Thermostat,Living Room,Set to 66F
+2024-07-09 01:49:22,Device Usage,Thermostat,Bedroom,Set to 77F
+2024-07-09 08:21:22,Device Usage,Appliance,Front Door,Used
+2024-07-13 00:43:22,Device Usage,Appliance,Bathroom,Used
+2024-07-10 06:52:22,Environmental,Humidity,Front Door,35%
+2024-07-09 07:29:22,Security Event,Door,Living Room,Closed
+2024-07-10 09:27:22,Security Event,Motion Sensor,Kitchen,Motion Detected
+2024-07-10 01:12:22,Device Usage,Thermostat,Front Door,Set to 70F
+2024-07-14 06:33:22,Environmental,Humidity,Bedroom,47%
+2024-07-08 15:16:22,Device Usage,Thermostat,Front Door,Set to 68F
+2024-07-13 01:29:22,Environmental,Temperature,Living Room,68F
+2024-07-09 03:09:22,Security Event,Door,Living Room,Opened
+2024-07-13 03:18:22,Security Event,Door,Bedroom,Closed
+2024-07-11 13:09:22,Security Event,Door,Bathroom,Closed
+2024-07-13 05:04:22,Security Event,Door,Kitchen,Closed
+2024-07-14 15:11:22,Environmental,Humidity,Bedroom,67%
+2024-07-11 09:00:22,Environmental,Humidity,Front Door,70%
+2024-07-10 21:21:22,Security Event,Door,Front Door,Opened
+2024-07-09 16:20:22,Environmental,Humidity,Bathroom,60%
+2024-07-13 10:35:22,Device Usage,Light,Front Door,On
+2024-07-14 04:01:22,Security Event,Motion Sensor,Front Door,Opened
+2024-07-11 17:46:22,Security Event,Camera,Kitchen,Closed
+2024-07-09 08:18:22,Security Event,Motion Sensor,Bathroom,Closed
+2024-07-12 11:57:22,Security Event,Motion Sensor,Kitchen,Opened
+2024-07-10 12:07:22,Device Usage,Appliance,Bedroom,Used
+2024-07-12 22:16:22,Environmental,Temperature,Living Room,65F
+2024-07-10 18:45:22,Security Event,Motion Sensor,Kitchen,Motion Detected
+2024-07-11 15:12:22,Security Event,Motion Sensor,Front Door,Motion Detected
+2024-07-13 06:45:22,Device Usage,Thermostat,Front Door,Set to 67F
+2024-07-13 06:07:22,Environmental,Temperature,Bathroom,65F
+2024-07-11 17:15:22,Environmental,Temperature,Bathroom,64F
+2024-07-11 10:46:22,Security Event,Motion Sensor,Kitchen,Closed
+2024-07-10 23:09:22,Security Event,Motion Sensor,Kitchen,Closed
+2024-07-09 01:21:22,Security Event,Camera,Bedroom,Motion Detected
+2024-07-11 08:04:22,Device Usage,Light,Front Door,On
+2024-07-12 01:44:22,Device Usage,Light,Front Door,Off
+2024-07-07 20:27:22,Environmental,Temperature,Kitchen,72F
+2024-07-13 12:47:22,Security Event,Motion Sensor,Front Door,Closed
+2024-07-12 14:57:22,Device Usage,Thermostat,Living Room,Set to 61F
+2024-07-11 14:44:22,Security Event,Camera,Bedroom,Closed
+2024-07-10 02:01:22,Environmental,Humidity,Bathroom,63%
+2024-07-08 22:50:22,Device Usage,Thermostat,Front Door,Set to 78F
+2024-07-11 20:33:22,Environmental,Humidity,Living Room,58%
+2024-07-12 19:43:22,Security Event,Motion Sensor,Front Door,Closed
+2024-07-09 08:10:22,Security Event,Motion Sensor,Bathroom,Motion Detected
+2024-07-14 03:58:22,Device Usage,Appliance,Kitchen,Used
+2024-07-09 05:08:22,Device Usage,Appliance,Bedroom,Used
+2024-07-09 11:54:22,Environmental,Humidity,Living Room,31%
+2024-07-13 02:38:22,Device Usage,Thermostat,Living Room,Set to 65F
+2024-07-11 12:10:22,Device Usage,Light,Bedroom,On
+2024-07-09 22:48:22,Device Usage,Thermostat,Front Door,Set to 64F
+2024-07-09 23:18:22,Environmental,Temperature,Bathroom,60F
+2024-07-12 08:19:22,Environmental,Humidity,Living Room,53%
+2024-07-10 22:51:22,Environmental,Humidity,Living Room,68%
+2024-07-08 09:13:22,Environmental,Humidity,Front Door,49%
+2024-07-08 18:24:22,Environmental,Temperature,Bedroom,76F
+2024-07-14 02:38:22,Security Event,Camera,Bedroom,Motion Detected
+2024-07-13 06:25:22,Device Usage,Light,Front Door,Off
+2024-07-09 04:56:22,Environmental,Temperature,Bedroom,75F
+2024-07-07 23:32:22,Security Event,Motion Sensor,Kitchen,Closed
+2024-07-14 02:33:22,Security Event,Door,Living Room,Motion Detected
+2024-07-12 12:13:22,Device Usage,Light,Bathroom,Off
+2024-07-13 22:13:22,Security Event,Door,Bedroom,Opened
+2024-07-08 04:54:22,Device Usage,Thermostat,Bathroom,Set to 60F
+2024-07-08 10:02:22,Device Usage,Thermostat,Front Door,Set to 76F
+2024-07-14 03:47:22,Device Usage,Appliance,Bathroom,Used
+2024-07-14 17:06:22,Device Usage,Light,Kitchen,Off
+2024-07-14 11:56:22,Environmental,Humidity,Bathroom,61%
+2024-07-11 22:56:22,Device Usage,Thermostat,Bedroom,Set to 79F
+2024-07-09 00:24:22,Device Usage,Appliance,Front Door,Used
+2024-07-09 22:37:22,Device Usage,Thermostat,Bedroom,Set to 76F
+2024-07-10 20:09:22,Environmental,Temperature,Kitchen,69F
+2024-07-13 17:35:22,Security Event,Motion Sensor,Front Door,Closed
+2024-07-10 07:13:22,Security Event,Motion Sensor,Front Door,Opened
+2024-07-08 07:10:22,Environmental,Humidity,Living Room,42%
+2024-07-13 01:15:22,Security Event,Door,Kitchen,Closed
+2024-07-08 21:43:22,Device Usage,Thermostat,Bathroom,Set to 65F
+2024-07-13 05:20:22,Environmental,Humidity,Bedroom,32%
+2024-07-09 22:05:22,Device Usage,Appliance,Front Door,Used
+2024-07-12 12:38:22,Environmental,Temperature,Kitchen,68F
+2024-07-10 00:01:22,Security Event,Camera,Kitchen,Closed
+2024-07-12 16:21:22,Security Event,Camera,Bedroom,Opened
+2024-07-10 13:47:22,Security Event,Motion Sensor,Bathroom,Closed
+2024-07-12 16:50:22,Device Usage,Light,Living Room,On
+2024-07-09 20:59:22,Environmental,Humidity,Front Door,45%
+2024-07-08 08:20:22,Device Usage,Light,Living Room,On
+2024-07-11 14:17:22,Environmental,Humidity,Kitchen,64%
+2024-07-13 15:24:22,Device Usage,Light,Kitchen,Off
+2024-07-10 20:29:22,Device Usage,Thermostat,Front Door,Set to 71F
+2024-07-12 15:30:22,Environmental,Humidity,Living Room,30%
+2024-07-09 21:47:22,Device Usage,Appliance,Living Room,Used
+2024-07-13 13:50:22,Security Event,Door,Bathroom,Opened
+2024-07-11 20:55:22,Environmental,Humidity,Bathroom,54%
+2024-07-11 20:32:22,Device Usage,Appliance,Front Door,Used
+2024-07-13 15:31:22,Environmental,Temperature,Bathroom,83F
+2024-07-13 21:52:22,Device Usage,Appliance,Front Door,Used
+2024-07-09 23:12:22,Environmental,Humidity,Front Door,54%
+2024-07-08 06:14:22,Environmental,Humidity,Bedroom,42%
+2024-07-14 05:47:22,Environmental,Humidity,Bathroom,47%
+2024-07-08 01:39:22,Environmental,Temperature,Bathroom,69F
+2024-07-13 23:43:22,Security Event,Door,Bedroom,Closed
+2024-07-11 23:25:22,Device Usage,Light,Front Door,On
+2024-07-09 11:59:22,Device Usage,Light,Front Door,Off
+2024-07-08 05:57:22,Security Event,Door,Bathroom,Opened
+2024-07-09 02:06:22,Device Usage,Light,Kitchen,Off
+2024-07-14 01:51:22,Security Event,Door,Kitchen,Opened
+2024-07-13 14:26:22,Device Usage,Thermostat,Kitchen,Set to 77F
+2024-07-11 02:47:22,Device Usage,Thermostat,Front Door,Set to 75F
+2024-07-10 08:16:22,Environmental,Temperature,Bedroom,78F
+2024-07-12 03:21:22,Security Event,Camera,Kitchen,Closed
+2024-07-12 20:57:22,Device Usage,Thermostat,Bedroom,Set to 67F
+2024-07-13 12:39:22,Environmental,Humidity,Kitchen,69%
+2024-07-08 13:38:22,Security Event,Motion Sensor,Living Room,Closed
+2024-07-08 02:20:22,Device Usage,Thermostat,Front Door,Set to 71F
+2024-07-10 14:55:22,Environmental,Temperature,Bathroom,73F
+2024-07-14 15:28:22,Environmental,Humidity,Kitchen,69%
+2024-07-10 23:03:22,Environmental,Temperature,Front Door,78F
+2024-07-09 19:45:22,Security Event,Motion Sensor,Bathroom,Motion Detected
+2024-07-13 11:09:22,Environmental,Humidity,Living Room,45%
+2024-07-09 09:55:22,Environmental,Temperature,Bedroom,71F
+2024-07-09 20:03:22,Environmental,Humidity,Bathroom,34%
+2024-07-13 06:23:22,Security Event,Motion Sensor,Bathroom,Motion Detected
+2024-07-11 23:02:22,Device Usage,Thermostat,Bathroom,Set to 66F
+2024-07-10 09:49:22,Security Event,Camera,Bathroom,Motion Detected
+2024-07-12 07:19:22,Security Event,Camera,Kitchen,Opened
+2024-07-10 10:46:22,Environmental,Humidity,Living Room,38%
+2024-07-12 13:05:22,Security Event,Door,Front Door,Opened
+2024-07-12 05:05:22,Security Event,Door,Front Door,Closed
+2024-07-12 19:49:22,Security Event,Door,Kitchen,Closed
+2024-07-13 13:52:22,Security Event,Door,Living Room,Opened
+2024-07-11 13:02:22,Device Usage,Appliance,Bedroom,Used
+2024-07-11 13:17:22,Environmental,Temperature,Bathroom,77F
+2024-07-08 13:21:22,Device Usage,Light,Bedroom,Off
+2024-07-07 23:33:22,Security Event,Door,Bedroom,Closed
+2024-07-11 23:45:22,Device Usage,Thermostat,Bathroom,Set to 78F
+2024-07-12 13:17:22,Device Usage,Light,Kitchen,Off
+2024-07-12 22:48:22,Environmental,Humidity,Bedroom,39%
+2024-07-10 22:29:22,Device Usage,Appliance,Living Room,Used
+2024-07-09 09:23:22,Security Event,Motion Sensor,Bedroom,Closed
+2024-07-08 17:54:22,Device Usage,Light,Living Room,On
+2024-07-14 08:34:22,Security Event,Door,Front Door,Closed
+2024-07-08 20:54:22,Device Usage,Thermostat,Kitchen,Set to 71F
+2024-07-13 21:19:22,Device Usage,Thermostat,Front Door,Set to 68F
+2024-07-08 06:01:22,Environmental,Temperature,Front Door,62F
+2024-07-07 22:01:22,Security Event,Camera,Kitchen,Closed
+2024-07-09 01:18:22,Security Event,Motion Sensor,Bathroom,Closed
+2024-07-08 19:01:22,Device Usage,Thermostat,Kitchen,Set to 77F
+2024-07-10 01:16:22,Security Event,Door,Living Room,Closed
+2024-07-11 14:09:22,Device Usage,Thermostat,Bedroom,Set to 73F
+2024-07-14 17:03:22,Security Event,Motion Sensor,Front Door,Motion Detected
+2024-07-14 15:35:22,Environmental,Humidity,Front Door,64%
+2024-07-11 16:49:22,Security Event,Door,Living Room,Opened
+2024-07-11 20:56:22,Device Usage,Appliance,Living Room,Used
+2024-07-11 06:03:22,Device Usage,Appliance,Bathroom,Used
+2024-07-09 22:46:22,Environmental,Humidity,Living Room,30%
+2024-07-08 14:51:22,Device Usage,Appliance,Kitchen,Used
+2024-07-12 13:02:22,Device Usage,Light,Front Door,Off
+2024-07-13 22:13:22,Environmental,Temperature,Kitchen,84F
+2024-07-13 09:30:22,Environmental,Humidity,Front Door,62%
+2024-07-14 14:01:22,Environmental,Temperature,Bathroom,60F
+2024-07-12 06:38:22,Security Event,Camera,Living Room,Closed
+2024-07-09 08:15:22,Security Event,Camera,Front Door,Opened
+2024-07-08 06:19:22,Security Event,Camera,Bathroom,Opened
+2024-07-14 04:57:22,Environmental,Temperature,Bedroom,72F
+2024-07-10 23:20:22,Device Usage,Appliance,Bathroom,Used
+2024-07-13 01:16:22,Device Usage,Light,Front Door,Off
+2024-07-14 17:46:22,Device Usage,Thermostat,Bedroom,Set to 70F
+2024-07-14 00:45:22,Security Event,Motion Sensor,Kitchen,Closed
+2024-07-11 06:24:22,Security Event,Motion Sensor,Kitchen,Motion Detected
+2024-07-14 15:21:22,Device Usage,Light,Front Door,Off
+2024-07-08 12:51:22,Device Usage,Thermostat,Kitchen,Set to 76F
+2024-07-07 20:18:22,Environmental,Temperature,Living Room,73F
+2024-07-08 19:35:22,Device Usage,Light,Kitchen,On
+2024-07-10 01:05:22,Device Usage,Thermostat,Front Door,Set to 71F
+2024-07-13 18:17:22,Device Usage,Thermostat,Kitchen,Set to 66F
+2024-07-08 04:54:22,Environmental,Humidity,Living Room,66%
+2024-07-14 08:22:22,Device Usage,Appliance,Bathroom,Used
+2024-07-09 22:09:22,Security Event,Door,Bathroom,Opened
+2024-07-12 19:05:22,Device Usage,Light,Bathroom,On
+2024-07-07 21:25:22,Environmental,Humidity,Bathroom,57%
+2024-07-13 17:51:22,Environmental,Humidity,Bedroom,33%
+2024-07-09 22:09:22,Security Event,Camera,Kitchen,Opened
+2024-07-11 07:50:22,Security Event,Door,Living Room,Closed
+2024-07-12 13:28:22,Device Usage,Thermostat,Bathroom,Set to 66F
+2024-07-14 01:20:22,Security Event,Motion Sensor,Bathroom,Closed
+2024-07-13 06:05:22,Device Usage,Appliance,Kitchen,Used
+2024-07-10 13:02:22,Environmental,Temperature,Living Room,69F
+2024-07-11 23:29:22,Device Usage,Light,Bedroom,Off
+2024-07-08 11:09:22,Environmental,Temperature,Front Door,65F
+2024-07-13 18:20:22,Device Usage,Appliance,Kitchen,Used
+2024-07-09 17:00:22,Security Event,Camera,Bedroom,Opened
+2024-07-09 15:06:22,Security Event,Camera,Front Door,Closed
+2024-07-10 06:55:22,Security Event,Camera,Bathroom,Motion Detected
+2024-07-08 13:29:22,Device Usage,Thermostat,Front Door,Set to 73F
+2024-07-09 08:31:22,Environmental,Temperature,Bedroom,67F
+2024-07-14 03:10:22,Device Usage,Light,Front Door,On
+2024-07-13 03:51:22,Environmental,Temperature,Front Door,82F
+2024-07-08 01:10:22,Environmental,Humidity,Living Room,51%
+2024-07-13 13:03:22,Security Event,Motion Sensor,Bathroom,Opened
+2024-07-08 14:22:22,Security Event,Door,Bathroom,Opened
+2024-07-09 10:23:22,Environmental,Temperature,Kitchen,77F
+2024-07-12 10:26:22,Device Usage,Appliance,Bedroom,Used
+2024-07-13 16:11:22,Device Usage,Appliance,Front Door,Used
+2024-07-09 14:55:22,Environmental,Humidity,Kitchen,62%
+2024-07-14 06:01:22,Environmental,Humidity,Front Door,43%
+2024-07-09 05:18:22,Environmental,Temperature,Bedroom,66F
+2024-07-13 04:47:22,Device Usage,Appliance,Bedroom,Used
+2024-07-13 05:25:22,Security Event,Camera,Bathroom,Closed
+2024-07-14 07:43:22,Security Event,Door,Front Door,Motion Detected
+2024-07-11 08:27:22,Device Usage,Light,Bathroom,Off
+2024-07-09 07:17:22,Environmental,Temperature,Living Room,76F
+2024-07-08 06:57:22,Environmental,Humidity,Bedroom,61%
+2024-07-11 19:08:22,Device Usage,Thermostat,Bathroom,Set to 63F
+2024-07-10 00:26:22,Device Usage,Thermostat,Front Door,Set to 69F
+2024-07-10 18:45:22,Security Event,Door,Living Room,Opened
+2024-07-10 10:22:22,Security Event,Door,Living Room,Motion Detected
+2024-07-12 17:07:22,Environmental,Temperature,Kitchen,80F
+2024-07-13 21:33:22,Security Event,Door,Bedroom,Opened
+2024-07-13 17:08:22,Security Event,Motion Sensor,Front Door,Closed
+2024-07-07 20:56:22,Security Event,Door,Bedroom,Motion Detected
+2024-07-12 11:54:22,Device Usage,Appliance,Kitchen,Used
+2024-07-12 20:38:22,Environmental,Humidity,Front Door,65%
+2024-07-13 10:07:22,Device Usage,Appliance,Bathroom,Used
+2024-07-09 20:14:22,Device Usage,Thermostat,Bathroom,Set to 62F
+2024-07-11 05:54:22,Security Event,Door,Front Door,Closed
+2024-07-14 12:27:22,Device Usage,Light,Front Door,Off
+2024-07-12 22:16:22,Security Event,Door,Front Door,Closed
+2024-07-09 19:58:22,Environmental,Humidity,Front Door,41%
+2024-07-12 09:42:22,Device Usage,Appliance,Front Door,Used
+2024-07-10 18:52:22,Device Usage,Appliance,Kitchen,Used
+2024-07-11 04:51:22,Environmental,Temperature,Bedroom,70F
+2024-07-10 15:23:22,Environmental,Temperature,Bedroom,80F
+2024-07-10 20:27:22,Device Usage,Thermostat,Bathroom,Set to 70F
+2024-07-14 03:19:22,Security Event,Camera,Bathroom,Motion Detected
+2024-07-09 18:32:22,Environmental,Humidity,Bedroom,57%
+2024-07-11 06:14:22,Security Event,Camera,Living Room,Closed
+2024-07-09 09:15:22,Environmental,Humidity,Kitchen,36%
+2024-07-12 16:33:22,Device Usage,Appliance,Living Room,Used
+2024-07-12 05:45:22,Environmental,Humidity,Living Room,35%
+2024-07-08 21:49:22,Environmental,Temperature,Bathroom,71F
+2024-07-12 19:02:22,Device Usage,Light,Living Room,On
+2024-07-14 03:31:22,Device Usage,Thermostat,Bathroom,Set to 70F
+2024-07-11 06:43:22,Security Event,Door,Bathroom,Opened
+2024-07-08 06:40:22,Environmental,Humidity,Living Room,60%
+2024-07-08 10:37:22,Device Usage,Light,Bathroom,Off
+2024-07-13 17:50:22,Environmental,Humidity,Kitchen,34%
+2024-07-10 19:42:22,Security Event,Door,Living Room,Motion Detected
+2024-07-12 18:39:22,Security Event,Door,Living Room,Closed
+2024-07-14 16:48:22,Environmental,Temperature,Front Door,70F
+2024-07-10 00:13:22,Environmental,Humidity,Front Door,48%
+2024-07-09 11:25:22,Device Usage,Appliance,Bathroom,Used
+2024-07-13 16:13:22,Security Event,Motion Sensor,Bedroom,Opened
+2024-07-08 23:21:22,Security Event,Motion Sensor,Front Door,Closed
+2024-07-10 06:53:22,Device Usage,Light,Front Door,Off
+2024-07-12 21:46:22,Environmental,Temperature,Living Room,62F
+2024-07-13 04:49:22,Security Event,Motion Sensor,Bathroom,Motion Detected
+2024-07-09 08:09:22,Security Event,Door,Front Door,Motion Detected
+2024-07-12 15:10:22,Security Event,Motion Sensor,Living Room,Motion Detected
+2024-07-12 12:52:22,Device Usage,Light,Bathroom,Off
+2024-07-12 21:41:22,Device Usage,Thermostat,Bathroom,Set to 79F
+2024-07-10 19:22:22,Environmental,Humidity,Front Door,54%
+2024-07-10 14:12:22,Device Usage,Thermostat,Bedroom,Set to 60F
+2024-07-08 11:35:22,Security Event,Door,Bedroom,Motion Detected
+2024-07-07 22:57:22,Security Event,Camera,Kitchen,Opened
+2024-07-13 02:37:22,Environmental,Humidity,Bedroom,32%
+2024-07-12 02:30:22,Device Usage,Thermostat,Front Door,Set to 79F
+2024-07-09 15:59:22,Security Event,Motion Sensor,Bedroom,Motion Detected
+2024-07-11 19:47:22,Environmental,Temperature,Front Door,65F
+2024-07-08 05:02:22,Environmental,Temperature,Front Door,66F
+2024-07-11 03:17:22,Device Usage,Light,Living Room,On
+2024-07-08 09:25:22,Device Usage,Thermostat,Front Door,Set to 78F
+2024-07-11 04:08:22,Security Event,Motion Sensor,Bedroom,Opened
+2024-07-11 21:51:22,Security Event,Camera,Bathroom,Opened
+2024-07-12 19:28:22,Device Usage,Appliance,Bedroom,Used
+2024-07-13 02:11:22,Device Usage,Appliance,Bathroom,Used
+2024-07-13 14:38:22,Environmental,Temperature,Living Room,64F
+2024-07-08 21:08:22,Security Event,Camera,Front Door,Motion Detected
+2024-07-11 08:53:22,Security Event,Camera,Kitchen,Opened
+2024-07-12 17:35:22,Device Usage,Light,Front Door,Off
+2024-07-08 21:22:22,Security Event,Motion Sensor,Bathroom,Opened
+2024-07-08 16:20:22,Device Usage,Appliance,Bathroom,Used
+2024-07-14 12:23:22,Environmental,Temperature,Bathroom,71F
+2024-07-14 09:25:22,Security Event,Camera,Living Room,Motion Detected
+2024-07-09 17:21:22,Device Usage,Light,Kitchen,Off
+2024-07-12 05:53:22,Environmental,Humidity,Bedroom,41%
+2024-07-14 03:08:22,Device Usage,Light,Kitchen,Off
+2024-07-11 04:21:22,Security Event,Door,Living Room,Opened
+2024-07-12 21:51:22,Security Event,Motion Sensor,Kitchen,Opened
+2024-07-11 19:51:22,Device Usage,Appliance,Bathroom,Used
+2024-07-13 12:08:22,Device Usage,Appliance,Kitchen,Used
+2024-07-10 22:48:22,Environmental,Humidity,Front Door,42%
+2024-07-09 22:26:22,Security Event,Camera,Front Door,Closed
+2024-07-08 02:05:22,Environmental,Temperature,Living Room,83F
+2024-07-07 20:38:22,Device Usage,Thermostat,Kitchen,Set to 67F
+2024-07-12 14:35:22,Security Event,Door,Bathroom,Closed
+2024-07-12 10:34:22,Environmental,Humidity,Bathroom,52%
+2024-07-09 01:58:22,Security Event,Door,Bedroom,Closed
+2024-07-09 21:03:22,Environmental,Temperature,Bathroom,73F
+2024-07-09 19:54:22,Environmental,Temperature,Kitchen,63F
+2024-07-14 09:17:22,Device Usage,Light,Bathroom,Off
+2024-07-14 04:22:22,Security Event,Camera,Bathroom,Closed
+2024-07-11 12:38:22,Security Event,Motion Sensor,Front Door,Closed
+2024-07-12 23:27:22,Device Usage,Appliance,Bathroom,Used
+2024-07-10 12:00:22,Device Usage,Appliance,Kitchen,Used
+2024-07-10 14:36:22,Device Usage,Light,Bedroom,On
+2024-07-12 02:09:22,Device Usage,Light,Living Room,Off
+2024-07-08 03:11:22,Environmental,Humidity,Front Door,53%
+2024-07-09 12:43:22,Device Usage,Light,Kitchen,On
+2024-07-10 22:54:22,Environmental,Humidity,Living Room,65%
+2024-07-12 08:44:22,Security Event,Camera,Bedroom,Opened
+2024-07-13 03:19:22,Device Usage,Thermostat,Kitchen,Set to 74F
+2024-07-12 13:53:22,Security Event,Camera,Bedroom,Opened
+2024-07-12 17:41:22,Security Event,Door,Living Room,Opened
+2024-07-13 06:56:22,Environmental,Humidity,Living Room,65%
+2024-07-13 16:57:22,Security Event,Camera,Front Door,Opened
+2024-07-12 09:01:22,Security Event,Camera,Kitchen,Motion Detected
+2024-07-11 23:49:22,Device Usage,Light,Bedroom,Off
+2024-07-14 13:17:22,Security Event,Camera,Bathroom,Opened
+2024-07-12 20:04:22,Security Event,Motion Sensor,Front Door,Opened
+2024-07-09 02:26:22,Security Event,Camera,Front Door,Closed
+2024-07-12 02:41:22,Device Usage,Thermostat,Bathroom,Set to 68F
+2024-07-08 22:26:22,Device Usage,Thermostat,Front Door,Set to 65F
+2024-07-08 18:37:22,Environmental,Humidity,Bedroom,47%
+2024-07-13 21:26:22,Security Event,Camera,Kitchen,Opened
+2024-07-11 12:57:22,Environmental,Temperature,Front Door,66F
+2024-07-08 09:53:22,Environmental,Temperature,Living Room,74F
+2024-07-10 01:18:22,Environmental,Temperature,Kitchen,67F
+2024-07-11 09:16:22,Environmental,Humidity,Bathroom,64%
+2024-07-08 10:01:22,Device Usage,Thermostat,Bedroom,Set to 60F
+2024-07-14 12:39:22,Security Event,Door,Kitchen,Opened
+2024-07-11 18:19:22,Environmental,Humidity,Bathroom,56%
+2024-07-12 16:31:22,Environmental,Temperature,Kitchen,74F
+2024-07-11 10:54:22,Security Event,Motion Sensor,Kitchen,Opened
+2024-07-14 00:43:22,Device Usage,Thermostat,Bedroom,Set to 67F
+2024-07-13 03:57:22,Environmental,Temperature,Front Door,84F
+2024-07-13 06:20:22,Device Usage,Appliance,Kitchen,Used
+2024-07-10 15:55:22,Device Usage,Thermostat,Bathroom,Set to 64F
+2024-07-10 18:46:22,Device Usage,Light,Bathroom,On
+2024-07-12 20:40:22,Environmental,Temperature,Living Room,64F
+2024-07-09 03:37:22,Security Event,Motion Sensor,Kitchen,Opened
+2024-07-08 09:20:22,Device Usage,Thermostat,Front Door,Set to 76F
+2024-07-11 08:08:22,Environmental,Temperature,Bathroom,83F
+2024-07-12 16:29:22,Device Usage,Thermostat,Living Room,Set to 70F
+2024-07-12 16:12:22,Security Event,Motion Sensor,Living Room,Motion Detected
+2024-07-09 07:09:22,Device Usage,Light,Bathroom,Off
+2024-07-08 14:13:22,Security Event,Door,Bathroom,Opened
+2024-07-09 03:58:22,Environmental,Humidity,Living Room,50%
+2024-07-08 03:08:22,Security Event,Camera,Kitchen,Closed
+2024-07-11 02:20:22,Security Event,Camera,Bedroom,Motion Detected
+2024-07-08 22:59:22,Environmental,Temperature,Bathroom,82F
+2024-07-09 21:02:22,Device Usage,Light,Front Door,Off
+2024-07-07 21:30:22,Device Usage,Thermostat,Living Room,Set to 74F
+2024-07-09 22:43:22,Device Usage,Appliance,Kitchen,Used
+2024-07-09 08:15:22,Device Usage,Thermostat,Kitchen,Set to 63F
+2024-07-09 02:21:22,Security Event,Camera,Kitchen,Motion Detected
+2024-07-10 15:45:22,Security Event,Motion Sensor,Front Door,Closed
+2024-07-08 21:57:22,Environmental,Temperature,Front Door,64F
+2024-07-08 18:14:22,Security Event,Motion Sensor,Bathroom,Closed
+2024-07-14 15:49:22,Security Event,Camera,Front Door,Opened
+2024-07-11 19:00:22,Environmental,Humidity,Bathroom,55%
+2024-07-07 23:47:22,Device Usage,Light,Bathroom,Off
+2024-07-13 10:09:22,Security Event,Motion Sensor,Bedroom,Opened
